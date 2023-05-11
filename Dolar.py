@@ -2,7 +2,6 @@ import speech_recognition as sr
 import requests
 import pyttsx3
 
-
 def cotacao_dolar():
     recohecedor = sr.Recognizer()
 
